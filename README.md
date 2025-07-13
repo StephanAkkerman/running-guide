@@ -3,11 +3,30 @@
 This is a pre-release of my running guide, so that Joep can view it.
 
 ## Table of Contents 🗂
+- [Motivation](#motivation)
 - [The Start](#the-start)
 - [Posture](#posture)
 - [Endurance](#Endurance)
 - [Speed](#Speed)
 - [Injuries](#Injuries)
+
+## Motivation 🎯
+
+### Lower the Barrier to Entry: The 10-Minute Rule
+
+The single biggest obstacle is often just starting the run. To overcome this initial resistance, use the "10-minute rule."
+
+*   **Make a Small Commitment:** Instead of telling yourself you need to go for a long or difficult run, just commit to running for 10 minutes. This small, non-intimidating goal makes it much easier to put on your shoes and get out the door.
+*   **Momentum is Powerful:** More often than not, once you've completed the first 10 minutes, you'll feel more energized and will want to continue for longer.
+*   **Consistency Over Intensity:** Even if you only run for 10 minutes, it's far better than skipping the run entirely. Building a consistent habit of running, even with short sessions, is more beneficial for long-term physical and mental health than sporadic, intense workouts.
+
+### Cultivate a Resilient Mindset
+
+While tricks can help you start, a strong mental approach is what keeps you going long-term. This is the difference between temporary "motivation" and a lasting internal "drive."
+
+*   **Get Comfortable Not Always Being Motivated:** It's completely normal not to feel like running every single day. Accept that motivation is fleeting and that some days you will have to rely on discipline. The goal is to get the run done even when you don't feel like it.
+*   **Always Remember Your "Why":** Keep your core reason for running at the front of your mind. Whether you're training for a race, trying to earn a scholarship, improving your health, or simply finding a mental release, connecting with your "why" provides a powerful purpose that can push you through the toughest days.
+*   **Realize Running is a Privilege:** Shift your perspective from viewing running as a chore to seeing it as a gift. Many people are not physically able to run. By reminding yourself that you are fortunate to have the ability to run, you can transform the experience into an act of gratitude, making every step—even the painful ones—feel like a blessing.
 
 ## The start ▶️
 
