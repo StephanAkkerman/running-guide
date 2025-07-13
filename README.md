@@ -3,12 +3,12 @@
 This is a pre-release of my running guide, so that Joep can view it.
 
 ## Table of Contents 🗂
-- [Motivation](#motivation)
-- [The Start](#the-start)
-- [Posture](#posture)
-- [Endurance](#Endurance)
-- [Speed](#Speed)
-- [Injuries](#Injuries)
+- [Motivation](#motivation-)
+- [The Start](#the-start-%EF%B8%8F)
+- [Posture](#posture-)
+- [Endurance](#endurance-)
+- [Speed](#speed-)
+- [Injuries](#injuries-)
 
 ## Motivation 🎯
 
