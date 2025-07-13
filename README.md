@@ -192,3 +192,12 @@ Strides are short bursts of fast running that help train your body to run with g
 5. **Plantar Fasciitis (Pain under the heel):**
     - **Cause:** Weak intrinsic foot muscles.
     - **Fix:** Strengthen the foot muscles (e.g., picking up a sock with your toes). Combine with calf raises and mobility work like rolling your foot on a tennis ball.
+
+## Sources
+- https://www.youtube.com/watch?v=LV_KhDxY_w0
+- https://www.youtube.com/watch?v=L6UER42jeFo
+- https://www.youtube.com/watch?v=e5wgoTuJuF8
+- https://www.youtube.com/watch?v=LMtW9uB2Z1o
+- https://www.youtube.com/watch?v=dZ0GCS4ql3k
+- https://www.youtube.com/watch?v=sScNDZu2MWk
+- https://www.youtube.com/watch?v=pxn34Lx3CYY
