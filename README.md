@@ -11,6 +11,7 @@ This is a pre-release of my running guide, so that Joep can view it.
 - [Endurance](#endurance-)
 - [Speed](#speed-)
 - [Injuries](#injuries-)
+- [Apps](#apps-)
 
 ## Shoes 👟
 Choosing the right shoe is essential for comfort and injury prevention. Don't just buy based on looks or recommendations; consider your unique needs.
@@ -236,6 +237,14 @@ Strides are short bursts of fast running that help train your body to run with g
 5. **Plantar Fasciitis (Pain under the heel):**
     - **Cause:** Weak intrinsic foot muscles.
     - **Fix:** Strengthen the foot muscles (e.g., picking up a sock with your toes). Combine with calf raises and mobility work like rolling your foot on a tennis ball.
+
+## Apps 📱
+
+Some useful apps that I like to use before and while running are as follows.
+
+- [Trail Router](https://trailrouter.com/): For generating a running path if I do not know where to go or don't have any inspiration.
+- [Strava](https://www.strava.com/): To track your runs, also functions as a social media for sports.
+- [Metronome](https://apps.apple.com/nl/app/smart-metronome-tuner/id889571826): Simple metronome app to guide my cadence. This is the one I use, but it can be any app that you like.
 
 ## Sources
 - https://www.youtube.com/watch?v=LV_KhDxY_w0
