@@ -3,12 +3,35 @@
 This is a pre-release of my running guide, so that Joep can view it.
 
 ## Table of Contents 🗂
+- [Shoes](#shoes-)
 - [Motivation](#motivation-)
 - [The Start](#the-start-%EF%B8%8F)
 - [Posture](#posture-)
 - [Endurance](#endurance-)
 - [Speed](#speed-)
 - [Injuries](#injuries-)
+
+## Shoes 👟
+Choosing the right shoe is essential for comfort and injury prevention. Don't just buy based on looks or recommendations; consider your unique needs.
+If you have the option to visit a specialized running store in your town, then you should take advantage of it. They will analyze how you run in the shoes before buying them, so that you know if you got the right fit.
+
+1.  **Understand Your Foot's Pronation:**
+    Pronation is the natural inward roll of your foot as it lands. You can determine your type through a professional gait analysis at a running store or by checking the wear pattern on your old shoes.
+    *   **Neutral:** Wear is centralized down the middle of the sole.
+    *   **Overpronation:** Wear is concentrated on the inside edge of the sole. This is very common and happens when the arch collapses inward too much.
+    *   **Supination (Underpronation):** Wear is on the outer edge of the sole, often seen in runners with high, rigid arches.
+
+2.  **Match the Shoe Type to Your Foot:**
+    *   **Neutral Shoes:** Best for neutral runners and supinators. They offer cushioning without extra corrective support.
+    *   **Stability Shoes:** Designed for mild to moderate overpronation. They have firmer foam or support structures on the inner side to prevent the arch from collapsing excessively.
+    *   **Motion Control Shoes:** For severe overpronators or those with flat feet. These offer the maximum level of support.
+
+3.  **Consider Cushioning and Terrain:**
+    *   **Cushioning:** Well-cushioned shoes are heavier but are ideal for daily training as they absorb impact well. Lighter, more minimal shoes (racing flats) are best for race day or fast workouts.
+    *   **Terrain:** Use **road shoes** for pavement and smooth surfaces. For runs on dirt, mud, or uneven ground, choose **trail shoes**, which offer more aggressive grip and a durable, reinforced upper.
+
+4.  **Know When to Replace Them:**
+    Running shoes have a limited lifespan. They lose their cushioning and support over time, which can increase your risk of injury. A general rule of thumb is to replace your shoes every **300-400 miles**.
 
 ## Motivation 🎯
 
@@ -35,6 +58,9 @@ Making your runs feel easier reduces the overall effort required.
 - **Fueling:** Have a small snack (like a banana or toast) 30-60 minutes before your run. Avoid running on a full stomach or on an empty one.
 - **Hydration:** Stay hydrated throughout the day, not just during the run.
 - **Avoid Heat:** Running in the hottest part of the day increases the effort required to maintain your pace. Run in the cooler morning or evening hours when possible.
+
+## Warm-up 🌡️
+
 
 ## Posture 🧘
 
