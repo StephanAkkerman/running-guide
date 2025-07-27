@@ -125,6 +125,8 @@ I like to follow a 5-10 minute YouTube video for warming up, for instance [this 
 
 - **Mental Cue:** "Run over hot coals" or "Run quietly." A quiet foot strike is often a correct one.
 
+- **How to track cadence:** You can keep track of your cadence by using a metronome app or using a Spotify playlist for the amount of BPM/cadence that you want.
+
 ---
 ### 7. Ankles, Feet & Toes: The Final Contact
 
@@ -181,23 +183,16 @@ Strides are short bursts of fast running that help train your body to run with g
 
 ### Breathing
 1. **Protocol #1: The Sympathetic Activation (Before a Run)**
-    
     - **Goal:** Activate the "fight or flight" response to prepare your body for exercise.
-        
     - **How:** Perform 5-10 "power breaths" before you start running. This involves a deep, controlled breath in through the nose, followed by a short, forceful exhale, as if blowing out a candle. This prepares your lungs, heart, and muscles for the run.
         
 2. **Protocol #2: The Forceful Exhale (During a Run)**
-    
     - **Goal:** Manage CO2 buildup and regain control of your breathing when you feel out of breath.
-        
     - **Why it works:** The feeling of being out of breath is a signal from your brain to expel excess CO2, not a lack of oxygen.
-        
     - **How:** Occasionally, perform a short, forceful exhale ("puff") to clear CO2, which helps you regain control of your breathing much faster.
         
 3. **Protocol #3: The Rhythmic Step (During a Run)**
-    
     - **Goal:** Optimize oxygen intake and maintain a steady, focused pace by synchronizing your breathing with your steps.
-        
     - **How:** Use a rhythmic breathing pattern, such as a **3:2 pattern** (inhale for 3 steps, exhale for 2 steps). This creates a natural, efficient flow and keeps you focused.
         
 4. **Protocol #4: The Balloon (Diaphragmatic Breathing)**
@@ -207,9 +202,7 @@ Strides are short bursts of fast running that help train your body to run with g
     - **How to practice:** Place one hand on your chest and one on your belly. When you inhale through your nose, only your belly hand should rise. When you exhale, your belly should fall flat. You can advance this by first filling the belly, then the chest.
         
 5. **Protocol #5: The Box Breath (After a Run for Recovery)**
-    
     - **Goal:** Speed up recovery by activating the parasympathetic (rest and digest) system.
-        
     - **How:** Use a "box breathing" pattern. For example, inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, and hold for 4 seconds. Repeat this for a few minutes after your run. This lowers your breath rate and heart rate, accelerating recovery.
 
 ## Injuries 🤕
@@ -222,6 +215,7 @@ Strides are short bursts of fast running that help train your body to run with g
 2. **Overuse Injuries:** These develop gradually over time from repeating the same movement without variation, leading to micro-stress that builds up.
     - **Examples:** Runner's knee, shin splints, Achilles tendinitis.
     - **Treatment:** You must identify and fix the root cause (the pattern). This involves changing the "input" by varying your pace, terrain, running form, adding strength training, and rotating shoes.
+  
 ## Preventing injuries
 1. **Runner's Knee (Pain around/behind the kneecap):**
     - **Cause:** Weakness in hips and knees.
@@ -251,3 +245,5 @@ Strides are short bursts of fast running that help train your body to run with g
 - https://www.youtube.com/watch?v=dZ0GCS4ql3k
 - https://www.youtube.com/watch?v=sScNDZu2MWk
 - https://www.youtube.com/watch?v=pxn34Lx3CYY
+- https://www.youtube.com/watch?v=Y8lIFxCE5Ro
+- https://www.youtube.com/watch?v=7k7l2WwbhHw
