@@ -6,6 +6,7 @@ This is a pre-release of my running guide, so that Joep can view it.
 - [Shoes](#shoes-)
 - [Motivation](#motivation-)
 - [The Start](#the-start-%EF%B8%8F)
+- [Warm-up](#warm-up-)
 - [Posture](#posture-)
 - [Endurance](#endurance-)
 - [Speed](#speed-)
@@ -60,7 +61,9 @@ Making your runs feel easier reduces the overall effort required.
 - **Avoid Heat:** Running in the hottest part of the day increases the effort required to maintain your pace. Run in the cooler morning or evening hours when possible.
 
 ## Warm-up 🌡️
+When preparing for a run, a proper warm-up is crucial for preventing injuries and enhancing performance. You want to focus on dynamic stretches, which are active movements that take your joints and muscles through a full range of motion. Key dynamic stretches to incorporate include leg swings, butt kicks, high knees, and torso twists. These movements help to lubricate your joints and activate the specific muscle groups you'll be using while running. It's important to avoid static stretching, which involves holding a stretch for an extended period, as this can actually inhibit muscle performance before a run. Tailor your warm-up to the type of run you have planned; a longer, more intense run may require a more extensive warm-up.
 
+I like to follow a 5-10 minute YouTube video for warming up, for instance [this one](https://www.youtube.com/watch?v=u-e0ZO5L0s0).
 
 ## Posture 🧘
 
@@ -136,31 +139,32 @@ Making your runs feel easier reduces the overall effort required.
 - **Foot Placement:** The goal is to have your feet land underneath your center of mass (your hips). This prevents "overstriding," which acts as a braking force and wastes energy. The specific type of footstrike (heel, midfoot, forefoot) is less important than where your foot lands.
 
 ## Endurance 💪
+
 ### The Three Traps of Poor Stamina
 
 1. **You Burn Energy Too Fast:** You start your runs too hard, like flooring a car on an empty tank, and quickly run out of energy.
 2. **Your Muscles Have Energy Leaks:** Inefficient running form, like flailing your arms or stomping your feet, wastes a significant amount of energy.
 3. **Your Brain Panics Too Early:** Your mind often gives up long before your body is physically exhausted, tricking you into quitting.
+
 ### How to build stamina
+
 - **Pace Yourself & Start Slow:** The biggest mistake beginners make is starting too fast, which leads to exhaustion and hating the activity. Run at a "conversational pace"—a speed where you could still hold a conversation. Most of your runs should be at this easy pace to allow your body to adapt.
 - **Warm-Up Correctly:** Start every run slow, like a boxer "dancing in the ring," to keep your heart rate low and conserve energy for later.
 - **Take Mid-Run Breathers:** Every 5-10 minutes, slow down for about 20 seconds. This resets your breathing and tricks your body into thinking it's recovering, allowing you to run longer.
 - **The "Finish Strong" Rule:** No matter how tired you are, end every run with a one-minute burst at top speed. This trains your brain to believe you always have a final push in reserve.
 - **Fix Energy Leaks:** Run with relaxed shoulders and arms bent at a 90-degree angle. Step lightly to avoid wasting energy by stomping.
-    
 - **Train Your Mind:**
     - **The No-Music Run:** Occasionally run without headphones or distractions to build mental focus and grit.
     - **The Grind Goal:** When you feel exhausted, force yourself to take just 30 more steps. This teaches your mind to push through discomfort.
-    - **Reframe Your Mindset:** Instead of thinking, "I'm tired," tell yourself, "I'm getting stronger." This rewires your brain to link discomfort with progress.
-        
+    - **Reframe Your Mindset:** Instead of thinking, "I'm tired," tell yourself, "I'm getting stronger." This rewires your brain to link discomfort with progress.    
 - **Fuel Properly:** You can't out-train bad fuel.
     - Eat slow-releasing carbs (oats, brown rice) 1-2 hours before a run.
     - Consume nitrate-rich foods like beetroot juice or spinach to improve muscle oxygen uptake.
     - Try an "endurance cocktail" of sodium, potassium, and honey 30 minutes before a run.
-        
 - **Use Mental Tricks:** Instead of focusing on the entire distance, break your run into a series of small, achievable targets (like a tree or a sign). This turns the run into a "hunt" and distracts you from fatigue.
 
 ## Speed 💨
+
 ### Strides
 Strides are short bursts of fast running that help train your body to run with good form at speed.
 
@@ -209,6 +213,7 @@ Strides are short bursts of fast running that help train your body to run with g
     - **How:** Use a "box breathing" pattern. For example, inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, and hold for 4 seconds. Repeat this for a few minutes after your run. This lowers your breath rate and heart rate, accelerating recovery.
 
 ## Injuries 🤕
+
 ### Common injuries
 1. **Overload Injuries:** These are acute injuries caused by pushing a muscle or tendon beyond its limit, often from doing too much, too soon, or with insufficient recovery.
     - **Example:** Hamstring tears, ruptured Achilles tendon.
