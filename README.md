@@ -194,7 +194,7 @@ Strides are short bursts of fast running that help train your body to run with g
         
 3. **Protocol #3: The Rhythmic Step (During a Run)**
     - **Goal:** Optimize oxygen intake and maintain a steady, focused pace by synchronizing your breathing with your steps.
-    - **How:** Use a rhythmic breathing pattern, such as a **3:2 pattern** (inhale for 3 steps, exhale for 2 steps). This creates a natural, efficient flow and keeps you focused.
+    - **How:** Use a rhythmic breathing pattern, such as a **2:3 pattern** (inhale for 2 steps, exhale for 3 steps). This creates a natural, efficient flow and keeps you focused.
         
 4. **Protocol #4: The Balloon (Diaphragmatic Breathing)**
     
